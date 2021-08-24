@@ -1,5 +1,10 @@
+/**
+ *  Simple QtQuick3D example scene based on https://doc.qt.io/qt-6/qtquick3d-intro-example.html
+ **/
+
 import QtQuick
 import QtQuick3D
+
 
 View3D {
     id: view
